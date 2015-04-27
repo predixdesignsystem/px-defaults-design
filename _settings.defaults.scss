@@ -40,5 +40,5 @@ $inuit-namespace:               null !default;
 $inuit-base-spacing-unit:           $inuit-base-line-height;
 $inuit-base-spacing-unit--tiny:     round($inuit-base-spacing-unit / 4);
 $inuit-base-spacing-unit--small:    round($inuit-base-spacing-unit / 2);
-$inuit-base-spacing-unit--large:    round($inuit-base-spacing-unit * 2);
-$inuit-base-spacing-unit--huge:     round($inuit-base-spacing-unit * 4);
+$inuit-base-spacing-unit--large:    round($inuit-base-spacing-unit * 1.3333333333);
+$inuit-base-spacing-unit--huge:     round($inuit-base-spacing-unit * 2);
