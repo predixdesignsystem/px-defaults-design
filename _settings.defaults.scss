@@ -37,8 +37,13 @@ $inuit-namespace:               null !default;
 // These variables are framework variables, sourced from variables defined
 // above. Feel free to use these variables throughout your project, but do not
 // modify or reassign them.
+
+$inuit-base-line-height--tiny:      round($inuit-base-line-height / 4);
+$inuit-base-line-height--small:     round($inuit-base-line-height / 2);
+$inuit-base-line-height--huge:      round($inuit-base-line-height * 1.5);
+
 $inuit-base-spacing-unit:           calculateRem($inuit-base-font-size);
-$inuit-base-spacing-unit--tiny:     calculateRem(($inuit-base-line-height / 4));
-$inuit-base-spacing-unit--small:    calculateRem(($inuit-base-line-height / 2));
+$inuit-base-spacing-unit--tiny:     calculateRem($inuit-base-line-height--tiny);
+$inuit-base-spacing-unit--small:    calculateRem($inuit-base-line-height--small);
 $inuit-base-spacing-unit--large:    calculateRem($inuit-base-line-height);
-$inuit-base-spacing-unit--huge:     calculateRem(($inuit-base-line-height * 1.5));
+$inuit-base-spacing-unit--huge:     calculateRem($inuit-base-line-height--huge);
