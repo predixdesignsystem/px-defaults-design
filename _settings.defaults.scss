@@ -11,7 +11,7 @@
 // adjusted directly; you should predefine the variables in your own project.
 
 
-
+@import "../px-functions-design/tools.functions";
 
 
 // High-level base settings.
@@ -37,8 +37,8 @@ $inuit-namespace:               null !default;
 // These variables are framework variables, sourced from variables defined
 // above. Feel free to use these variables throughout your project, but do not
 // modify or reassign them.
-$inuit-base-spacing-unit:           $inuit-base-font-size;
-$inuit-base-spacing-unit--tiny:     round($inuit-base-line-height / 4);
-$inuit-base-spacing-unit--small:    round($inuit-base-line-height / 2);
-$inuit-base-spacing-unit--large:    $inuit-base-line-height;
-$inuit-base-spacing-unit--huge:     round($inuit-base-line-height * 1.5);
+$inuit-base-spacing-unit:           calculateRem($inuit-base-font-size);
+$inuit-base-spacing-unit--tiny:     calculateRem(round($inuit-base-line-height / 4));
+$inuit-base-spacing-unit--small:    calculateRem(round($inuit-base-line-height / 2));
+$inuit-base-spacing-unit--large:    calculateRem($inuit-base-line-height);
+$inuit-base-spacing-unit--huge:     calculateRem(round($inuit-base-line-height * 1.5));

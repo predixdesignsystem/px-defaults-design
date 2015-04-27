@@ -21,5 +21,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "px-functions-design": "git://github.sw.ge.com/PXd/px-functions-design.git#master"
+  }
 }
