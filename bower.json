@@ -1,6 +1,6 @@
 {
   "name": "px-defaults-design",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "authors": [
     "General Electric",
     "Harry Roberts"
@@ -13,7 +13,7 @@
     "defaults"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.build.ge.com/PXd/px-defaults-design.git",
+  "homepage": "https://github.build.ge.com/PXd/px-defaults-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "px-functions-design": "git://github.build.ge.com/PXd/px-functions-design.git#~0.2.0"
+    "px-functions-design": "https://github.build.ge.com/PXd/px-functions-design.git#~0.2.0"
   }
 }

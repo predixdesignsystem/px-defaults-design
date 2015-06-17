@@ -1,6 +1,6 @@
 {
   "name": "px-defaults-design",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "PXd's default settings",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.build.ge.com/PXd/px-defaults-design.git"
+    "url": "https://github.build.ge.com/PXd/px-defaults-design.git"
   },
   "author": "General Electric",
   "license": "Apache 2",
