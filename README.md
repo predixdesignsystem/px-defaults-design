@@ -2,9 +2,7 @@
 
 The Predix Experience `defaults` module contains a few variables and settings that are **required** for using any of the rest of the framework.
 
-## Sass Documentation
 
-You can review Sass Documentation here: https://github.com/pages/PredixDev/px-defaults-design/sassdoc
 
 ## Dependency
 
