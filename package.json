@@ -1,6 +1,6 @@
 {
   "name": "px-defaults-design",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "PXd's default settings",
   "private": true,
   "scripts": {
