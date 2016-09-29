@@ -1,6 +1,6 @@
 # px-defaults-design
 
-The defaults module contains variables and settings that are *required* for using any of the rest of the Predix UI CSS modules.
+The defaults module contains variables and settings that are *required* for using nearly all Predix UI CSS modules.
 
 ## Installation
 
