@@ -1,11 +1,11 @@
 {
   "name": "px-defaults-design",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "authors": [
     "General Electric",
     "Harry Roberts"
   ],
-  "description": "PXd's default settings",
+  "description": "Default settings for Predix UI",
   "main": "_settings.defaults.scss",
   "keywords": [
     "PXd",
