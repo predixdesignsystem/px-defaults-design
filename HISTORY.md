@@ -1,3 +1,7 @@
+v0.2.11
+==============================
+* Update to latest px-functions-design dependencies
+
 v0.2.10
 ==============================
 * Cleaned up minor spacing, indentation, and other styles in Sass code

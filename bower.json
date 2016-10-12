@@ -1,6 +1,6 @@
 {
   "name": "px-defaults-design",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "authors": [
     "General Electric",
     "Harry Roberts"
@@ -22,6 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "px-functions-design": "https://github.com/PredixDev/px-functions-design.git#~0.2.0"
+    "px-functions-design": "~0.3.3"
   }
 }
