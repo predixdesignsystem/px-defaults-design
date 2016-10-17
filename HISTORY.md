@@ -1,3 +1,7 @@
+v0.2.12
+==============================
+* Add demo
+
 v0.2.11
 ==============================
 * Update to latest px-functions-design dependencies
