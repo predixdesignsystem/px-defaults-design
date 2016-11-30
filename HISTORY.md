@@ -1,3 +1,7 @@
+v0.3.6
+==================
+* removed css vars for patch.
+
 v0.3.5
 ==================
 * added style variables for theming
