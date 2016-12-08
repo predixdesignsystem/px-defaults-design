@@ -1,3 +1,6 @@
+v1.0.1
+==================
+* Move to style modules to demos
 v1.0.0
 ==================
 * re-adding css vars with major bump
