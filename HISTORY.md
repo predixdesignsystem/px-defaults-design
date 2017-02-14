@@ -1,3 +1,7 @@
+v1.0.5
+==================
+* update demo page with px-demo classes
+
 v1.0.4
 ==================
 * rebuilt sass with new colors
@@ -27,7 +31,7 @@ v0.3.5
 
 v0.3.4
 ==================
-* bumping sassdoc to propogate clipboard changes
+* bumping sassdoc to propagate clipboard changes
 
 v0.3.3
 ==================
