@@ -1,6 +1,6 @@
-v2.0.0
+v1.0.6
 ==================
-* updated dependencies for design refresh
+* fix dependencies and remove grunt
 
 v1.0.5
 ==================
