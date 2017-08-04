@@ -1,3 +1,11 @@
+v2.0.1
+==================
+* runtime theming for demo
+
+v2.0.0
+==================
+* design refresh
+
 v1.0.6
 ==================
 * fix dependencies and remove grunt
